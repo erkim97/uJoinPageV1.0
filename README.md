@@ -4,4 +4,4 @@ mysql-test folder contains a simulated schema of a standard instagram-like app, 
 1. Download and navigate into JoinUs folder
 2. Type into terminal: node app.js, if running properly should say 'App listening on port 3000'
 3. Open url link: https://joinuswebappsql.run.goorm.io/
-4. 
+
